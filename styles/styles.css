@@ -9,7 +9,7 @@ header {
     text-align: left;
 }
 
-p  {
+p, dl  {
     margin-left: 20px;
 }
 
@@ -39,7 +39,7 @@ h4 {
 }
 
 
-.introduction, .workExperience, .skills, .references {
+.introduction, .workExperience, .skillsEducation, .references {
     margin-bottom: 50px;
 }
  
